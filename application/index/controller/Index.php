@@ -2,6 +2,7 @@
 namespace app\index\controller;
 
 use think\Controller;
+use think\Request;
 
 class Index extends Controller
 {
@@ -9,7 +10,7 @@ class Index extends Controller
     {
         return $this->fetch();
     }
-    public function detail()
+    public function goodsDetail()
     {
         return $this->fetch();
     }
