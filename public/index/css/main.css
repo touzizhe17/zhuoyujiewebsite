@@ -180,7 +180,7 @@ display: block;position: absolute; right: 0px; top: 0px; background: url(../imag
 .zjul li a img{ width:192px; height:192px;}
 .zjul li:hover a img{ width:194px; height:194px; margin-left:-2px; margin-top:-2px;}
 .zjul li span{ width:192px; height:40px; line-height:40px; background:#4D4240; color:#FFF; text-align:center; float:left;}
-.tith{ width:1200px; background:#B10D18; height:50px; margin:10px 0; line-height:50px;}
+.tith{ width:1200px; background: #000000; height:50px; margin:10px 0; line-height:50px;}
 .tith h3{ width:auto; float:left; height:50px; padding-left:15px; color:#FFF;}
 .tith a{ width:auto; float:right; height:50px; padding-right:10px; color:#FFF; text-decoration:none;}
 /*名家列表*/
